@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "25d872169d7d898fcc7cbd340bc67f02",
+    "revision": "e178e4caabb2000bf8ed57d1f0f2a48b",
     "url": "/elisabetros.github.io/weatherapp/index.html"
   },
   {
-    "revision": "63333d0e43a825f0a44c",
+    "revision": "4fc3bf00c480eff85cff",
     "url": "/elisabetros.github.io/weatherapp/static/css/main.98bc2c09.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/elisabetros.github.io/weatherapp/static/js/2.91121464.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "63333d0e43a825f0a44c",
-    "url": "/elisabetros.github.io/weatherapp/static/js/main.2497fd97.chunk.js"
+    "revision": "4fc3bf00c480eff85cff",
+    "url": "/elisabetros.github.io/weatherapp/static/js/main.a42f47c4.chunk.js"
   },
   {
     "revision": "73f94b699f270a7aee8a",
